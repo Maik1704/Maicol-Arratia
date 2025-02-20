@@ -12,3 +12,8 @@ El problema es que Docker trabaja con los contenedores de Linux inicialmente
 
 Existe un problema con el tema de la version de windows para poder trabajar con el **IIS** el cual es que solo se permite con la version de Windows Pro
 ![image](https://github.com/user-attachments/assets/143824a5-9f6f-4ce2-a1f7-1680c1041131)
+![image](https://github.com/user-attachments/assets/ba6d609a-1be0-4bb1-b8be-887fc89fe9da)
+
+En la informacion siguiente se ve que pide una version especifica
+![image](https://github.com/user-attachments/assets/d638b67b-1a1d-4592-a35c-020d424389db)
+![image](https://github.com/user-attachments/assets/78c0c043-e33b-4a09-aa77-f89e318909ac)
