@@ -17,3 +17,4 @@ Existe un problema con el tema de la version de windows para poder trabajar con 
 En la informacion siguiente se ve que pide una version especifica
 ![image](https://github.com/user-attachments/assets/d638b67b-1a1d-4592-a35c-020d424389db)
 ![image](https://github.com/user-attachments/assets/78c0c043-e33b-4a09-aa77-f89e318909ac)
+![image](https://github.com/user-attachments/assets/e1829a1a-098c-4651-b673-5d18135913dc)
